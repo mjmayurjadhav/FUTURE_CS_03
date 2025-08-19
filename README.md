@@ -75,6 +75,6 @@ Cyber Security Intern at FutureInterns"
    
 This walkthrough demonstrates how to securely manage files in the portal using AES encryption, ensuring confidentiality, integrity, and controlled access.
 
-#Author 
+# Author 
 
-Mayur Jadhav 
+*Mayur Jadhav* 
