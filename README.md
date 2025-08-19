@@ -15,19 +15,6 @@ All files are encrypted using **AES** before being stored and decrypted automati
 
 ---
 
-## Project Structure
-
-SecureFilePortal/
-│
-├── app.py # Main Flask app
-├── crypto_utils.py # AES encryption/decryption functions
-├── templates/
-│ └── index.html # Web interface
-
-├── uploads/ # Encrypted files storage
-└── README.md # Project documentation
-
----
 
 Usage
 Upload Files – Select a file and click Upload & Encrypt.
