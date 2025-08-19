@@ -7,7 +7,7 @@ This document explains how to use the **Secure File Portal** to upload, download
 
 ## 1. Project Setup
 
-1. Clone the repository:
+##1. Clone the repository:
 
 git clone https://github.com/mjmayurjadhav/FUTURE_CS_03.git 
 
